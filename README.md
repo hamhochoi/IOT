@@ -137,3 +137,7 @@ Do dữ liệu trong big data rất lớn nên nó phải được lưu trữ v�
   * các vật được kết nối với internet
 
    
+                        
+                        
+                    
+___MCT___
